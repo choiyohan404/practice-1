@@ -1,0 +1,119 @@
+
+.main-background {
+    width: 100%;
+    height: 600px;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://somoskudasai.com/wp-content/uploads/2023/05/bocchi-the-rock-s2-min.jpg?v=3https://somoskudasai.com/wp-content/uploads/2023/05/bocchi-the-rock-s2-min.jpg?v=3");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 1px;
+    position: absolute;
+    }
+
+.main-title {
+    padding: 40px;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.main-content {
+    width: 100%;
+    font-size: 30px;
+    padding: 40px;
+    color: beige;
+}
+
+.main-title p{
+    margin: 0;
+}
+
+.main-content p{
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.main-button {
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+
+.button {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    font-size: 20px;
+    color: beige;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.main-goods {
+    background-color: #eee;
+    width: 40%;
+    height: 300px;
+    position:absolute;
+    bottom: -200px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 30px;
+}
+
+.p {
+    margin: 0;
+    font-size: 50px;
+    color: palevioletred;
+    padding: 30px;
+}
+
+.goods-down {
+    width: 100%;
+    font-size: 20px;
+    margin: 0;
+    postion
+}
+
+.goods-up {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.p1 {
+    margin: 0;
+    font-size: 20px;
+    color: palevioletred;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.goods-image {
+    width: 60%;
+    padding-left: 30px;
+    border-radius: 30px;
+} 
+
+.goods-down-left {
+    float: left;
+    width: 33%;
+}
+
+.goods-down-center {
+    float: left;
+    width: 34%;
+    color: palevioletred;
+}
+
+.goods-down-right {
+    width: 33%;
+    color:palevioletred;
+    float: left;
+}

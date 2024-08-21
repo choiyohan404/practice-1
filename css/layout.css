@@ -1,0 +1,65 @@
+
+.main {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left-up {
+    width: 70%;
+    height: 30%;
+}
+
+.left {
+    width: 70%;
+    height: 100px;
+    float: left;
+}
+
+.left-down {
+    width: 100%;
+    height: 70%;
+}
+
+
+.right {
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 20px;
+}
+
+.profile-name p {
+    margin: 0;
+    font-size:10px;
+    margin-left: 40px;
+}
+
+.dd {
+    width: 30px;
+    float: left;
+}
+
+.navar li{
+    display: inline-block;
+    width: 30px;
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 30px;
+    }
+
+.navar a{
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.navar {
+    text-align: center;
+}
